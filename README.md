@@ -1,1 +1,1 @@
-# example [test](google.com)
+# example [test](http://www.cbc.ca/)
